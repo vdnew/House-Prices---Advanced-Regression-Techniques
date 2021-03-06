@@ -6,6 +6,12 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
+# Training Accuracy
+* Random Forest Accuracy - 98%
+
+# Testing Accuracy
+* Random Forest Accuracy - 85%
+
 # Data fields
 
 Here's a brief version of what you'll find in the data description file.
