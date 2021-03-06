@@ -32,6 +32,8 @@ Here's a brief version of what you'll find in the data description file.
     Condition1: Proximity to main road or railroad
     Condition2: Proximity to main road or railroad (if a second is present)
     BldgType: Type of dwelling
+    
+Dataset source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
     HouseStyle: Style of dwelling
     OverallQual: Overall material and finish quality
     OverallCond: Overall condition rating
